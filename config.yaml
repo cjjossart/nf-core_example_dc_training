@@ -21,7 +21,7 @@ carpentry_description: 'Lesson Description'
 title: 'nf-core Data Carpentry Training'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 08-19-2026
+created: 2026-08-19
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries, nextflow, nf-core, bioinformatics, workflow management system'
